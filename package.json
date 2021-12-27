@@ -9,7 +9,6 @@
     "build": "webpack --mode production"
   },
   "keywords": [],
-  "author": "Vladilen Minin <vladilen.minin@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^3.4.2",
